@@ -1,4 +1,4 @@
-# Rat
+# Rat Biological Characteristics
 
 This notebook contains analysis of various physical, metabolic, fluid, and ISF measurements for rats. So far, it only contains data for the CD Hairless Rat and Sprague Dawley strains. 
 
